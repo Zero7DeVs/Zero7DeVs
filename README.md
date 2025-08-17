@@ -22,8 +22,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zero7DeVs&theme=neon&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Zero7DeVs&theme=neon&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero7DeVs&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero7DeVs&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zero7DeVs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
