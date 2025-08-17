@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zero7devs&label=Profile%20views&color=0e75b6&style=flat" alt="zero7devs" /> </p>
 
-
 - 🔭 I’m currently working on [Ecommerce Application](https://www.anvisworld.com/)
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -25,20 +24,16 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Zero7DeVs&theme=neon&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero7DeVs&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-contributor-stats.vercel.app/api?username=Zero7DeVs&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zero7DeVs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zero7devs&show_icons=true&locale=en&layout=compact" alt="zero7devs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zero7devs&show_icons=true&locale=en" alt="zero7devs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zero7devs&" alt="zero7devs" /></p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/overclocked.dev) 
 
 <!-- Snake Game Repo View -->
 
