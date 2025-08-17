@@ -31,13 +31,13 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zero7DeVs&theme=neon&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soumya-bose&theme=neon&hide_border=false&include_all_commits=true&count_private=false" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Zero7DeVs&theme=neon&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=soumya-bose&theme=neon&hide_border=false" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero7DeVs&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-bose&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
 ## 🏆 GitHub Trophies
